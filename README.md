@@ -23,7 +23,7 @@
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 # 🌐 Connect with me
-<a href="[https://www.facebook.com/anduckhmt146](https://www.facebook.com/chau.dinh.3005/)" target="_blank">
+<a href="https://www.facebook.com/chau.dinh.3005/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/baochau305" target="_blank">
